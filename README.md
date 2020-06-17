@@ -4,7 +4,7 @@ Question Asked for Interview.
 A parking lot that can hold up to 'n' cars 
 Each slot is given a number starting at 1 increasing with increasing distance from the entry point in steps.
 The ticket documents the registration number color and slot number
- At the exit the customer returns the ticket and slot is marked available.
+At the exit the customer returns the ticket and slot is marked available.
 the system  provide following  to find 
 ● Registration numbers of all cars of a particular colour. 
 ● Slot number in which a car with a given registration number is parked. 
@@ -22,7 +22,6 @@ $park KA-01-HH-2701 Blue
 $park KA-01-HH-3141 Black 
 Allocated slot number: 1 Allocated slot number: 2 Allocated slot number: 3 
 Allocated slot number: 4 Allocated slot number: 5 Allocated slot number: 6
-
 $leave 4 
 Slot number 4 is free 
 $status 
