@@ -1,4 +1,5 @@
 # Parking-Lot-Design
+
 Question Asked for Interview.
 A parking lot that can hold up to 'n' cars 
 Each slot is given a number starting at 1 increasing with increasing distance from the entry point in steps.
